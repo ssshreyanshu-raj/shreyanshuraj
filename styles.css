@@ -7,7 +7,7 @@
 
 body {
   font-family: serif;
-  background-color: #000;
+ 
   color: #fff;
   padding: 100px;
   line-height: 1.5;
@@ -282,4 +282,5 @@ p {
     left: 0;
     color: #333;
 }
+
 
